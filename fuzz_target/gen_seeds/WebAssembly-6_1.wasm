@@ -1,0 +1,14 @@
+
+(module
+  (import "env" "print" (func $print (param i32)))
+  (func $versioned
+    (call $print (i32.const 6))
+  )
+  (memory (export "memory") 1)
+  (global (export "global") i32 (i32.const 42))
+  (data (i32.const 16) "Versioned: WebAssembly specifications are versioned, allowing for backward and forward compatibility with different runtime environments.")
+  (func (export "invoke_versioned")
+    (call $versioned)
+  )
+  (start $versioned)
+)

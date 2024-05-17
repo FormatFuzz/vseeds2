@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url(data:font/woff2;base64,VGhpcyBpcyBhIGR1bW15IFdPRkYgZm9udCBmaWxl) format('woff2-variations');
+    unicode-range: U+0000-00FF; /* Specify the supported Unicode range */
+    font-display: swap; /* Define font display behavior */
+    font-weight: normal; /* Specify font weight */
+    font-style: normal; /* Specify font style */
+    font-stretch: normal; /* Specify font stretch */
+    font-variation-settings: 'wght' 400; /* Specify font variation settings */
+    font-optical-sizing: auto; /* Specify font optical sizing */
+    font-embedding-permissions: allow-install; /* Specify font embedding permissions */
+    font-charset: unicode; /* Specify font character encoding */
+}

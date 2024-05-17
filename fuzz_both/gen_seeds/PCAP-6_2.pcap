@@ -1,0 +1,10 @@
+Source IP: 60.133.140.67	Dest IP: 250.35.65.216	Source Port: 40898	Dest Port: 34235	Protocol: UDP
+Source IP: 104.45.171.198	Dest IP: 72.136.134.248	Source Port: 28694	Dest Port: 63278	Protocol: ICMP
+Source IP: 232.43.6.202	Dest IP: 251.66.67.68	Source Port: 58519	Dest Port: 11672	Protocol: UDP
+Source IP: 22.141.101.127	Dest IP: 56.213.98.229	Source Port: 18368	Dest Port: 4420	Protocol: TCP
+Source IP: 218.88.40.197	Dest IP: 108.15.99.59	Source Port: 96	Dest Port: 63314	Protocol: ICMP
+Source IP: 16.113.133.170	Dest IP: 163.67.145.179	Source Port: 42380	Dest Port: 39538	Protocol: UDP
+Source IP: 132.226.149.176	Dest IP: 64.173.158.200	Source Port: 60401	Dest Port: 12040	Protocol: TCP
+Source IP: 101.169.213.98	Dest IP: 52.154.69.112	Source Port: 44416	Dest Port: 22141	Protocol: TCP
+Source IP: 42.241.204.151	Dest IP: 96.149.5.101	Source Port: 32240	Dest Port: 54225	Protocol: ICMP
+Source IP: 196.101.171.42	Dest IP: 197.146.143.34	Source Port: 61192	Dest Port: 14231	Protocol: ICMP

@@ -1,0 +1,5 @@
+
+Certificate:
+    Transferability: Can be easily transferred across different systems and platforms
+    Data Integrity: Provides data integrity through the use of cryptographic signatures
+    Basic Constraints: Defines whether the subject can act as a certificate authority

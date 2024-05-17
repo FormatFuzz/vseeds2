@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url(data:font/woff;base64,VGhpcyBpcyBhIGR1bW15IFdPRkYgZm9udCBmaWxl) format('woff');
+}
+
+/* Font Validation Information */
+@font-face {
+    font-family: 'ValidationInfo';
+    src: url(data:application/octet-stream;base64,VmFsaWRhdGlvbiBkYXRhIGZvciB0aGUgZm9udCBmaWxl) format('woff');
+}

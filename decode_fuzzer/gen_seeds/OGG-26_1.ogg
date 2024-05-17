@@ -1,0 +1,8 @@
+OGG is an open and free multimedia container format maintained by the Xiph.Org Foundation.
+
+Custom Metadata:
+Title: Sample OGG
+Artist: Your Name
+Year: 2022
+External synchronization: OGG files can support external synchronization with other media elements or devices for coordinated playback.
+Network transparency: OGG files can be streamed over network protocols like HTTP or RTP with built-in support for network transmission.

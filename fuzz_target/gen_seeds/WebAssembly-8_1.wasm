@@ -1,0 +1,27 @@
+
+(module
+  (func $custom_feature
+    (local $message_ptr i32)
+    (local $message_len i32)
+    (local $message_buffer i32)
+    
+    ;; Allocate memory for the message
+    (set_local $message_len (i32.const 43))  ;; Length of the custom feature message
+    (set_local $message_ptr (call $allocate_memory (get_local $message_len)))
+    
+    ;; Copy the custom feature message into the memory buffer
+    (set_local $message_buffer (i32.const 0))  ;; Start of the memory buffer
+    (call $copy_memory (get_local $message_ptr) (get_local $message_buffer) (get_local $message_len))
+    
+    ;; Print the custom feature message
+    (call $print_message (get_local $message_ptr) (get_local $message_len))
+  )
+  
+  ;; Import the necessary functions
+  (import "env" "allocate_memory" (func $allocate_memory (param i32) (result i32)))
+  (import "env" "copy_memory" (func $copy_memory (param i32 i32 i32)))
+  (import "env" "print_message" (func $print_message (param i32 i32)))
+  
+  ;; Export the custom feature function
+  (export "custom_feature" (func $custom_feature))
+)

@@ -1,0 +1,10 @@
+Source IP: 84.217.244.50	Dest IP: 219.121.164.18	Source Port: 59220	Dest Port: 56481	Protocol: UDP	Encryption Key: 37176CEFE4585812
+Source IP: 131.194.185.179	Dest IP: 179.111.9.44	Source Port: 8288	Dest Port: 4590	Protocol: ICMP	Encryption Key: 8686949FCE670521
+Source IP: 13.91.107.200	Dest IP: 83.82.15.141	Source Port: 46327	Dest Port: 47665	Protocol: UDP	Encryption Key: 1253A9D3D4E2F760
+Source IP: 122.87.133.154	Dest IP: 202.110.165.67	Source Port: 54249	Dest Port: 62533	Protocol: UDP	Encryption Key: 75FA24587D067721
+Source IP: 7.184.129.247	Dest IP: 204.126.216.126	Source Port: 15831	Dest Port: 7715	Protocol: TCP	Encryption Key: 4DBC7DC46DD27927
+Source IP: 32.213.115.42	Dest IP: 199.88.45.167	Source Port: 31787	Dest Port: 64624	Protocol: UDP	Encryption Key: 01F8B781382B8BC7
+Source IP: 186.160.158.73	Dest IP: 103.138.10.42	Source Port: 49615	Dest Port: 42697	Protocol: TCP	Encryption Key: 7C2C6B4D6FAD84D3
+Source IP: 155.31.166.3	Dest IP: 76.119.85.224	Source Port: 13504	Dest Port: 21547	Protocol: ICMP	Encryption Key: 5D5A764D322937CC
+Source IP: 166.210.27.190	Dest IP: 72.197.154.72	Source Port: 34392	Dest Port: 57479	Protocol: UDP	Encryption Key: 842A5101BFB13DF8
+Source IP: 63.24.0.232	Dest IP: 111.190.211.67	Source Port: 46729	Dest Port: 62288	Protocol: ICMP	Encryption Key: 039CAE0D58AA345F
